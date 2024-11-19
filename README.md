@@ -24,17 +24,17 @@ The Music Player App is a sleek and user-friendly application developed using Fl
   
 <h1 align="center">  Light Mode  </h1>
 <div align="center">
-  <img height="200"  src="https://github.com/user-attachments/assets/157647a6-2c21-4ac4-a650-6cec1564d2dc"/>
-  <img height="200"  src="https://github.com/user-attachments/assets/718a402c-d028-4a6b-9729-4bb3086d113e"/>
-  <img height="200"  src="https://github.com/user-attachments/assets/253e5a95-5ebf-4b0a-a61b-2d2a0789c2c1"/>
-  <img height="200"  src="https://github.com/user-attachments/assets/a505843d-863e-446b-bebc-19e5564ecad0"/>
-  <img height="200"  src="https://github.com/user-attachments/assets/60f21d73-2642-4855-b484-0d757010d3b7"/>
-  <img height="200"  src="https://github.com/user-attachments/assets/6dee3b23-163f-4ad8-b7bd-3e4b1ad45494"/>
-  <img height="200"  src="https://github.com/user-attachments/assets/76331558-e224-436e-a8c6-81c15df977c6"/>
-  <img height="200"  src="https://github.com/user-attachments/assets/4263830d-6ac7-407d-9f51-cb24bc4cd05f"/>
-  <img height="200"  src="https://github.com/user-attachments/assets/23917261-6dd9-46f5-bfbc-3e9d898f1ce1"/>
-  <img height="200"  src="https://github.com/user-attachments/assets/c05e4b86-9ab6-4544-9740-136a1dcfc51f"/>
-  <img height="200"  src="https://github.com/user-attachments/assets/cddedf3f-3176-4556-9995-1036e9ede45a"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/157647a6-2c21-4ac4-a650-6cec1564d2dc"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/718a402c-d028-4a6b-9729-4bb3086d113e"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/253e5a95-5ebf-4b0a-a61b-2d2a0789c2c1"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/a505843d-863e-446b-bebc-19e5564ecad0"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/60f21d73-2642-4855-b484-0d757010d3b7"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/6dee3b23-163f-4ad8-b7bd-3e4b1ad45494"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/76331558-e224-436e-a8c6-81c15df977c6"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/4263830d-6ac7-407d-9f51-cb24bc4cd05f"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/23917261-6dd9-46f5-bfbc-3e9d898f1ce1"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/c05e4b86-9ab6-4544-9740-136a1dcfc51f"/>
+  <img height="250"  src="https://github.com/user-attachments/assets/cddedf3f-3176-4556-9995-1036e9ede45a"/>
 
 </div>
 

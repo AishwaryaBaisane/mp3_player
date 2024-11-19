@@ -46,11 +46,10 @@ The Music Player App is a sleek and user-friendly application developed using Fl
   <img height="350"  src="https://github.com/user-attachments/assets/01de818c-535e-43b9-8a77-f3835097fd57"/>
   <img height="350"  src="https://github.com/user-attachments/assets/f9996d49-d6ac-4e68-ac60-b97d4e3ef932"/>
   <img height="350"  src="https://github.com/user-attachments/assets/e2272b3e-5037-439e-98b7-b8d2257ad5f0"/>
-  <img height="350"  src="https://github.com/user-attachments/assets/bc3c5445-b8d8-4f79-8e90-4242842b46e3"/>
+  <img height="350"  src="https://github.com/user-attachments/assets/cddedf3f-3176-4556-9995-1036e9ede45a"/>
   <img height="350"  src="https://github.com/user-attachments/assets/0b179ce3-8a28-4480-a147-1f0748a07f8f"/>
   <img height="350"  src="https://github.com/user-attachments/assets/006edf51-4d4d-4ab6-9d9b-f37254decd39"/>
   <img height="350"  src="https://github.com/user-attachments/assets/d2ca1a8c-d965-46c2-81f8-a52213340fde"/>
-  <img height="350"  src="https://github.com/user-attachments/assets/cddedf3f-3176-4556-9995-1036e9ede45a"/>
 </div>
 
 

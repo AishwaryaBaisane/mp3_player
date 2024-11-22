@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-https://github.com/user-attachments/assets/f756c82c-2cec-43d5-b46a-54390c589f83
+    <video height="450" src="https://github.com/user-attachments/assets/f756c82c-2cec-43d5-b46a-54390c589f83" controls />
 </div>
 
 
